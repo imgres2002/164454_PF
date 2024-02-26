@@ -1,6 +1,6 @@
-szymon bieniaszewski
+szymon bieniaszewski 164454
 
-grupa ISI 1
+grupa: ISI 1
 
 członkowie zespołu:
 
