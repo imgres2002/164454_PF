@@ -1,5 +1,7 @@
 szymon bieniaszewski
+
 grupa ISI 1
+
 członkowie zespołu:
 
 Szymon Bieniaszewski
