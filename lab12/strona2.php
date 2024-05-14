@@ -6,9 +6,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $password = $_POST["password"];
 
     if ($login == "Janusz" && $password == "1234") {
-        echo "Zalogowano pomyślnie!";
+        echo "Zalogowano";
     } else {
-        echo "Błąd logowania. Spróbuj ponownie.";
+        echo "Błąd";
     }
 }
 ?>
